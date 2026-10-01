@@ -1,6 +1,7 @@
 # Student Grade Calculator — Git, GitHub & GitHub Actions Teaching Repository
 
 A small Python project designed for university practical sessions covering Git, GitHub collaboration, project management, and GitHub Actions CI.
+ausaf is gastric
 
 ## Learning path
 
